@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Harsh Singh
-- 👀 I’m interested in Data Science, Coding and Artificial Intelligence
+- Heyo, My name is Harsh and I am a Combined Major in Science at University of British Columbia. 
+- 👀 I’m interested in Artificial Intelligence, mainly to spend a lot of extra time automating processes that I could just compelete manually.
 - 🌱 I’m currently learning Computer Science
 - 📫 Email: harshmsingh1508@gmail.com
 
