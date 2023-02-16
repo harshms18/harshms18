@@ -1,6 +1,7 @@
 - Heyo, My name is Harsh and I am a Combined Major in Science at University of British Columbia. 
-- 👀 I’m interested in Artificial Intelligence, mainly to spend a lot of extra time automating processes that I could just compelete manually.
-- 🌱 I’m currently learning Computer Science
+- 👀 I’m interested in Artificial Intelligence and Database Management/Data Manipulation, mainly to spend a lot of extra time automating processes that I could just compelete manually.
+- 🌱 I’m currently learning Computer Science, Physics, and Earth Science 
+- Most of work is not public to avoid plagarism flags from the university. Please email a request to view projects.
 - 📫 Email: harshmsingh1508@gmail.com
 
 <!---
